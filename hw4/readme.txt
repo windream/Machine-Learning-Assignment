@@ -1,0 +1,1 @@
+The program may cause “out of memory” problem when run in Matlab. The solution I use to solve this problem is to set a breakpoint in “kmeansImage.m” when running “CSCI567_hw4”. I don’t know why it happens, but this solution proves to work except every time finishing one iteration for a “K” you need to press continue.
